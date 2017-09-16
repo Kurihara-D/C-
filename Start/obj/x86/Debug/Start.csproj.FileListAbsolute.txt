@@ -1,0 +1,5 @@
+/Users/kurihara/Projects/Start/Start/bin/Debug/Start.exe
+/Users/kurihara/Projects/Start/Start/bin/Debug/Start.pdb
+/Users/kurihara/Projects/Start/Start/obj/x86/Debug/Start.csproj.CoreCompileInputs.cache
+/Users/kurihara/Projects/Start/Start/obj/x86/Debug/Start.exe
+/Users/kurihara/Projects/Start/Start/obj/x86/Debug/Start.pdb
